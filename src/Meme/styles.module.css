@@ -1,0 +1,23 @@
+.container {
+    margin-top: 50px;
+}
+
+.generate {
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+}
+.generate:hover {
+    background-color: #5cb85c;
+    color: white;
+    margin-top: 20px;
+}
+  
+.skip {
+    background-color: white;
+    color: black;
+} 
+.skip:hover {
+    background-color: #0275d8;
+    color: white;
+}
